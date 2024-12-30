@@ -31,7 +31,7 @@ The **Bookmarker** project is built using modern web technologies like HTML, CSS
 
 ## Demo
 
-Demo: (./images/bookmarker-sample.png)
+[Demo](https://bodaa004.github.io/Bookmarker/)
 
 ---
 
